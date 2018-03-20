@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DRONAID</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_drones">Drones</string>
+    <string name="title_doctors">Doctors</string>
+    <string name="title_profile">Profile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
